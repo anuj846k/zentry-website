@@ -35,7 +35,6 @@ The website showcases a gaming platform that integrates various products into an
 ## 🎮 Demo
 
 - **Live Demo**: [https://zentry-website-swart.vercel.app/](https://zentry-website-swart.vercel.app/)
-- **Video Walkthrough**: [Watch Demo](https://youtu.be/demo-link)
 
 ## ⚙️ Tech Stack
 
