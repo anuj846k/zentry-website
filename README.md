@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="public/img/image.png" alt="Zentry Website Preview" width="100%">
+   <img src="public/img/image2.png" alt="Zentry Website Preview" width="100%">
+
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
