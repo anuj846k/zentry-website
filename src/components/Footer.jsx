@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="w-screen bg-[#5B4CFF] py-12 text-black overflow-hidden">
       <div className="container mx-auto mb-8">
-        <h1 className="font-zentry text-black text-center text-[12rem] md:text-[35rem] leading-none tracking-wider">
+        <h1 className="font-zentry text-black text-center text-[12rem] sm:text-[36rem] leading-none tracking-wider">
           ZENTRY
         </h1>
       </div>
